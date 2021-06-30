@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leverquin
-- 👀 I’m interested in ... JavaScript, HTML5/CSS5, JSON, jquery 
+- 👀 I’m interested in ... JavaScript, HTML5/CSS5, JSON, jquery, Vue.js  
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... Cataclysm: Dark Days Ahead (CDDA)
 - 📫 How to reach me ... here?
